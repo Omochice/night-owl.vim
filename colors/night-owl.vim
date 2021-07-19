@@ -1,6 +1,6 @@
 " ===============================================================
 " night-owl
-" 
+"
 " URL: https://github.com/haishanh/night-owl.vim
 " Author: Haishan
 " License: MIT
@@ -149,9 +149,9 @@ let g:terminal_color_background = "#011627"
 let g:terminal_color_0 = "#011627"
 let g:terminal_color_8 = "#637777"
 let g:terminal_color_1 = "#ff5874"
-let g:terminal_color_2 = "#addb67"
+let g:terminal_color_2 = "#22da6e"
 let g:terminal_color_10 = "#addb67"
-let g:terminal_color_3 = "#f78c6c"
+let g:terminal_color_3 = "#c5e478"
 let g:terminal_color_11 = "#f78c6c"
 let g:terminal_color_4 = "#82aaff"
 let g:terminal_color_12 = "#82aaff"
